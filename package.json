@@ -1,0 +1,22 @@
+{
+  "name": "watermarkh",
+  "version": "1.0.0",
+  "description": "watermark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongmeigh/watermarkh.git"
+  },
+  "keywords": [
+    "watermark"
+  ],
+  "author": "gaohongmei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongmeigh/watermarkh/issues"
+  },
+  "homepage": "https://github.com/hongmeigh/watermarkh#readme"
+}
